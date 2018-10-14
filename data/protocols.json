@@ -1,5 +1,5 @@
 [{
-  "title": "Put seeds to eppendorf",
+  "title": "Cultivation of <i>Arabidopsis thaliana</i> seeds",
   "content": [
     "Use 3D Micro Shaker to shake seeds for 15 minutes with 20%/ bleach +1/1000 SDS (Tween20)",
     "Remove bleach completely and add sterile water to wash three times",
@@ -24,7 +24,7 @@
   ]
 },
 {
-  "title": "endophytic test",
+  "title": "Endophytic test",
   "content": [
     "sterilized tools: tweezers(label A、B)、ddH2O、Glass Bead、Disposable pestle",
     "prepared three plates of sterile water(label 1、2、3) and a plate of 10%bleach and a plate of 75% ethanol.",
@@ -38,9 +38,9 @@
   ]
 },
 {
-  "title": "Solid M.S medium",
+  "title": "Medium",
   "content": [
-    "4.4g/L MS Murashige and skoog Basal Medium (store at 4° C fridge), 1.5 % Sucrose, and 0.8% agar, use HCl or KOH to adjusted pH to 5.7. autoclaved at 12° C for 20 mins."
+    "Solid M.S medium: 4.4g/L MS Murashige and skoog Basal Medium (store at 4° C fridge), 1.5 % Sucrose, and 0.8% agar, use HCl or KOH to adjusted pH to 5.7. autoclaved at 12° C for 20 mins."
   ]
 }
 ]
