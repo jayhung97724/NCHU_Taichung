@@ -1,0 +1,46 @@
+[{
+  "title": "Put seeds to eppendorf",
+  "content": [
+    "Use 3D Micro Shaker to shake seeds for 15 minutes with 20%/ bleach +1/1000 SDS (Tween20)",
+    "Remove bleach completely and add sterile water to wash three times",
+    "Storage at 4℃ for 4-7 days for Seed vernalization.",
+    "Pipette 100 μl of water and seeds to solid 1/2 M.S medium.",
+    "Seeds should be cultivated into plates in enough spaces to grow (Each plate should have 15-18 seeds)",
+    "Tilt plates and remove excess water",
+    "Seal the plates with parafilm",
+    "Put plates to growth chamber at constant temperature of 25 ± 2 ° C with 16/8 h light and dark cycle"
+  ]
+},
+{
+  "title": "Inoculation",
+  "content": [
+    "take 8-day plants",
+    "choose healthy plants which have complete roots ",
+    "Holding plant hypocotyls with tweezers and put plants in the cover of plate",
+    "Add proper amount bacteria of OD600=0.4 to cover whole roots and sink 1minutes.",
+    "Wash excess bacteria by sterile water for 1-2 second then put plants into new solid M.S medium. (For the test of how long the bacteria could stay in plants and the test of phenotype after inoculating)",
+    "Seal the plates with parafilm ",
+    "For endophytic test, do further experiment"
+  ]
+},
+{
+  "title": "endophytic test",
+  "content": [
+    "sterilized tools: tweezers(label A、B)、ddH2O、Glass Bead、Disposable pestle",
+    "prepared three plates of sterile water(label 1、2、3) and a plate of 10%bleach and a plate of 75% ethanol.",
+    "Before picking plants, sterile tweezers by alcohol burner or fuego basic then wait it to cool down.",
+    "Put 3 inoculated plants into 10% bleach at the same time, timing 1 minutes<br>Use tweezer A to take plants out the put back to 75% ethanol, timing 30 seconds<br>Use tweezer A to take plants out the put back to sterile water1, timing 30 seconds<br>Use tweezer B to take plants out the put back to sterile water2, timing 30 seconds<br>Use tweezer B to take plants out the put back to sterile water3, timing 30 seconds<br>Use tweezer B to take plants out the put to labeled eppendorf<br>Repeat above-mentioned steps for different OD600 but the same species.<br>Take 100ul of sterile water3 to LB medium as the control group",
+    "renew sterile water1、2、3、ethanol and bleach for different bacteria species experiment",
+    "After grinding plants by disposable pestle, use 200ul pipette to drop 100ul to LB medium",
+    "Pour glass beads then shake horizontally to make fluid spread",
+    "Pour glass beads out to waste bottle.",
+    "Growth bacteria in proper temperature and wait 12-16 hours."
+  ]
+},
+{
+  "title": "Solid M.S medium",
+  "content": [
+    "4.4g/L MS Murashige and skoog Basal Medium (store at 4° C fridge), 1.5 % Sucrose, and 0.8% agar, use HCl or KOH to adjusted pH to 5.7. autoclaved at 12° C for 20 mins."
+  ]
+}
+]
