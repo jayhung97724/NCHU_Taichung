@@ -118,7 +118,7 @@ function filterEventByDate(date) {
     return event.date == date;
   });
 }
-$.getJSON("./data/eventDetail.json", (file) => {
+$.getJSON("./data/eventDetailold.json", (file) => {
   eventList = file;
   findUniqueDateNaddClass();
   console.log(eventList[1]);
